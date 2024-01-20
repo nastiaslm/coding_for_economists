@@ -1,2 +1,2 @@
-# coding_for_economists
-# coding_for_economists
+# Project: Home Bias Tender Data
+## Getting to know the Shell, git and Makefile 
