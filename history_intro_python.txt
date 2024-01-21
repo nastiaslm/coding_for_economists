@@ -1,0 +1,12 @@
+    1  python 
+    2  git status
+    3  git add main.py
+    4  git commit -m "Coded solution to string slicing exercise"
+    5  git config --global user.email "nastia.solomakha1@gmail.com"
+    6  git config --global user.name "Anastasiia Solomakha"
+    7  git config credential.name "nastiaslm"
+    8  git commit -m "Coded solution to string slicing exercise"
+    9  git push -u origin main 
+   10  history
+   11  history Y
+   12  history > history_intro_python.txt
