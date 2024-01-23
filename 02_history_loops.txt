@@ -1,0 +1,49 @@
+    1  git status
+    2  git add README.md 
+    3  git commit -m "Added README.md"
+    4  git --global user.email "foo@bar.com"
+    5  git config  --global user.email "foo@bar.com"
+    6  git config  --global user.name "abcm"
+    7  git config credential.username "nastiaslm"
+    8  git push
+    9  git push
+   10  git remote add origin https://github.com/nastiaslm/coding_for_economists.git
+   11  git branch -M main
+   12  git push -u origin main
+   13  git push -u origin main
+   14  git pull
+   15  git config pull.rebase false
+   16  git push
+   17  git push --help
+   18  git push --force
+   19  python
+   20  touch main.py
+   21  git status
+   22  git add 02_basic_python.py
+   23  git commit -m "Added tests for inequality"
+   24  rm main.py 06_conditionals.py
+   25  mv mIN.PY 06_conditionals.py
+   26  touch main.py
+   27  git add main.py
+   28  git status
+   29  mv main.py 06_python_conditionals.py
+   30  git push
+   31  git push 
+   32  touch main.py
+   33  git push 
+   34  git push --force
+   35  python
+   36  mv main.py 07_python_loops.py 
+   37  git add 07_python_loops.py
+   38  git commit -m "Added script introducing for and while loops"
+   39  git push 
+   40  git status
+   41  git ass 06_python_conditionals.py
+   42  git push
+   43  git add 06_python_conditionals.py
+   44  git push
+   45  git push 
+   46  git add 06_python_conditionals.py
+   47  git commit -m "Added script for conditionals"
+   48  git push 
+   49  history > 02_history_loops.txt
