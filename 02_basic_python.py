@@ -71,5 +71,14 @@ print(2 == 2 and 3 == 4) #False
 print(2 == 2 or 3 == 4) #True
 print(2 == 3 or 3 == 4) #False
 
+# Testing for inequality 
+print(2 != 3) #True 
 
+# Testing for less than/more than
+print(2 < 3) #True
+print(2 > 3) #False
+
+# Testing for less than/more than or equal to
+print(2 <= 3) #True
+print(2 >= 3) #False
 
